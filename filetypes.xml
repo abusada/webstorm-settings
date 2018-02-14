@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="draft" type="JavaScript" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="aiYshi" type="PLAIN_TEXT" />
+      <mapping pattern="express" type="PLAIN_TEXT" />
+      <mapping pattern=".mocharc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
